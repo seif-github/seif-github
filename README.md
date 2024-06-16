@@ -1,6 +1,5 @@
-## Hi, I'm Seif Gamal 👋
+# Hi, I'm Seif Gamal 👋
 
-# 💫 About Me
 🎓Student at Cairo University, Faculty of Computers and Artificial Intelligence<br>
 
 
