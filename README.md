@@ -18,4 +18,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=seif-github&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![CI](https://github.com/seif-github/seif-github/actions/workflows/blank.yml/badge.svg)](https://github.com/seif-github/seif-github/actions/workflows/blank.yml)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
